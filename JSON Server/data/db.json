@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "How to be a Net Ninja",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto.",
+      "likes": 15
+    },
+    {
+      "id": 3,
+      "title": "New Vue course coming soon!",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, natus harum repellat quia minus laudantium quaerat. Aliquid tempore, suscipit nobis, quasi sit sequi tenetur aperiam esse ea, quo earum architecto.",
+      "likes": 20
+    }
+  ]
+}

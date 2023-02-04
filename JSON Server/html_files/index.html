@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSON Server</title>
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body class="text-bg-secondary">
+    <nav
+      class="d-flex align-items-center justify-content-between container"
+      style="margin-top: 6rem"
+    >
+      <h1>All Blogs</h1>
+      <a
+        href="./create.html"
+        class="text-decoration-none text-light bg-info badge px-4 py-3 fs-6"
+        >Add a new blog</a
+      >
+    </nav>
+
+    <form class="search container">
+      <input
+        type="text"
+        name="term"
+        placeholder="Search term"
+        style="width: 20vw"
+        class="form-control"
+      />
+    </form>
+
+    <div class="blogs container">
+      <!-- Inject Blogs Here From JS -->
+    </div>
+
+    <script src="../js_files/index.js"></script>
+  </body>
+</html>
